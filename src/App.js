@@ -14,6 +14,7 @@ function App() {
         <testing3></testing3>
         <testing4></testing4>
         <other1></other1>
+        <testing5></testing5>
         <a
           className="App-link"
           href="https://reactjs.org"
